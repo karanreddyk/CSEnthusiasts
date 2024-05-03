@@ -1,5 +1,2 @@
-# CSEnthusiasts
-Software Engineering 
-Sport Data Analysis Bot
-Description:
-  
+A README file should provide an overview of your project and contain each of the group member first and last names and PID.
+
