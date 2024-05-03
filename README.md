@@ -1,9 +1,9 @@
 # CSEnthusiasts
 
-Aneesh Tummeti (artummeti)
-Soham Patil (sohampatil)
-Aidan Walters (aidanw)
-Karan Reddy Kandala (karanreddyk)
+Aneesh Tummeti (artummeti) <br>
+Soham Patil (sohampatil) <br>
+Aidan Walters (aidanw) <br>
+Karan Reddy Kandala (karanreddyk) <br>
 
 Software Engineering 
 Sport Data Analysis Bot
